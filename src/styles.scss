@@ -1,0 +1,22 @@
+body {
+  font-family: Roboto, 'Helvetica Neue', sans-serif;
+  margin: 0;
+  padding: 30px;
+}
+
+html,
+body {
+  height: 100%;
+}
+
+.mat-dialog-container {
+  resize: both;
+  overflow: auto;
+  background: #fff;
+}
+
+.cdk-overlay-pane{
+  resize: both;
+  overflow: auto;
+  background-color: black;
+}
